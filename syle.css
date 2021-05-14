@@ -13,6 +13,7 @@ body {
     flex-flow: wrap;
     justify-content: center;
     align-items: center;
+    background-color: black;
 }
 .tittle {
     width: 80vw;
