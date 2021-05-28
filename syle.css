@@ -7,7 +7,7 @@ html {
   font-size: 62.5%;
 }
 body {
-  display: flex;s
+  display: flex;
 }
 .container {
   display: flex;
@@ -21,7 +21,7 @@ body {
   width: 80vw;
   flex-basis: content;
   background-color: #2a9d8f;
-  font-size: 2rem;
+  font-size: 4vw;
   justify-content: center;
   border: 0.4rem solid #f4a261;
   border-radius: 1rem;
